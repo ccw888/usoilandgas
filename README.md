@@ -1,4 +1,4 @@
-# Time=series forecasting of US Natural Gas Productions
+# Time series forecasting of US Natural Gas Productions
 
 ## Project Overview
 This project analyzes the US Oil & Gas production levels from June 2008 to June 2018..
